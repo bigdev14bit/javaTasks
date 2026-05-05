@@ -14,12 +14,11 @@ public class TaskOne {
 
     totalScore[index] = userInput;
 
-    System.out.println(totalScore);
+    System.out.println(java.util.Arrays.toString(totalScore));
 
 
-  }
-  
-  for(int indexx = 0; indexx < 10; indexx++) {
+  } 
+  for(int indexx : totalScore) {
     System.out.print(indexx);
   }
   System.out.println();

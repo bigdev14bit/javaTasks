@@ -14,7 +14,7 @@ public class TaskOne {
 
     totalScore[index] = userInput;
 
-    System.out.println(totalScore);
+    //System.out.println(java.util.Arrays.toString(totalScore));
 
 
   }
