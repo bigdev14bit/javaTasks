@@ -18,8 +18,8 @@ public class TaskOne {
 
 
   } 
-  for(int indexx : totalScore) {
-    System.out.print(indexx);
+  for(int indexx = 0; indexx < 10; indexx++) {
+    System.out.println(java.util.Arrays.toString(totalScore));
   }
   System.out.println();
  }

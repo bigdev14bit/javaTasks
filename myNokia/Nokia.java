@@ -127,7 +127,7 @@ public class Nokiaa {
 				 System.out.println(template);
 				 break;
 			 case 6: System.out.println("\n6. SMILEYS");
-				 smileys = "(^,^)", "<,>", "(**)", "<(*,*)>", "(*_*)", "(<,<)", "(@.@)", "#,#";
+			       
 				 System.out.println("\nSMILEYS: " + smileys);
                                  break;
 
@@ -161,3 +161,5 @@ public class Nokiaa {
 					   }
 				 }
 			     }
+}
+}

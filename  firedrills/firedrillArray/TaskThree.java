@@ -18,7 +18,7 @@ public class TaskOne {
 
   }
   for(int indexx = 0; indexx < 10; indexx++) {
-    System.out.println(java.util.Arrays.toString(totalScore));
+    System.out.print(java.util.Arrays.toString(totalScore));
   }
   System.out.println();
  }
